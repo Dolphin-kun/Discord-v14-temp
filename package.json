@@ -1,0 +1,14 @@
+{
+  "name": "iruka-bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.0",
+    "query-string": "^7.1.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}

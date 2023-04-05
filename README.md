@@ -16,6 +16,6 @@ TOKEN=トークン
 ```json
 {
   "clientId": "BotのId",
-  "guildId": "鯖のId",
+  "guildId": "鯖のId"
 }
 ```
